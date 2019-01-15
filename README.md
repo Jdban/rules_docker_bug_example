@@ -1,4 +1,4 @@
-Requirements - Must have Bazel installed
+Requirements - Must have `Bazel` and `Make` installed
 
 Pull down this repo with:
 
